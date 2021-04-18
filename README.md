@@ -8,10 +8,10 @@
 </p>
 
 <h3><b>Let's get in touch!</b></h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudershan-singh-9a874512a/" target="blank">
+<a href="https://www.linkedin.com/in/sudershan-singh-9a874512a/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sudershan-singh-9a874512a/" height="30" width="40" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/sudy4884/" target="blank">
+<a href="https://www.instagram.com/sudy4884/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sudy4884/" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/sudy49730" target="blank">
